@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://hlrydev.github.io/qrcodecomp/)
 
 ## My process
 
@@ -40,7 +40,7 @@ If the margin of a container inside another container is bigger, the content wil
 
 ### Useful resources
 
-- [% vs. px](https://www.reddit.com/r/webdev/comments/1algy1f/any_way_to_prevent_html_from_moving_when_resizing/) - This helped me to understand the difference between percentage and pixels. 
+- [% vs. px](https://www.reddit.com/r/webdev/comments/1algy1f/any_way_to_prevent_html_from_moving_when_resizing/) - This helped me understand the difference between percentage and pixels. 
 - [Desktop & Mobile view](https://stackoverflow.com/questions/69766801/css-body-width-changes-between-desktop-and-mobile) - One line of code helped me with the view on all devices.
 - [Collapsed margins](https://stackoverflow.com/questions/8529695/adjusting-the-margin-top-of-a-div-inside-of-a-container-div-pushes-both-the-inne) - Overlapping margins solution.
 - [Overflowing content inside a div](https://stackoverflow.com/questions/11219931/how-to-force-div-element-to-keep-its-contents-inside-container) - Figured out how to ensure content stays inside a container. 
@@ -48,6 +48,6 @@ If the margin of a container inside another container is bigger, the content wil
 
 ## Author
 
-- GitHub - [@hlrydev](https://github.com/hlrydev)
+[@hlrydev](https://github.com/hlrydev)
 
 
